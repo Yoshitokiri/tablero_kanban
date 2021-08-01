@@ -1,0 +1,6 @@
+Proyecto creado utilizando JavaScript puro
+Tablero kanban simple que permite crear elementos y almacenarlos en el localStorage, asi como crear nuevos y moverlos mediante Drag and Drop.
+
+*Se utilizan Drag and Drop API para mover elementos en el DOM
+*Se utiliza el localStorage para eumalr una base de datos cloud
+*Debido al tamaño se utiliza queryselector en lugar de jquery
